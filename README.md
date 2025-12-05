@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Java-based backend applications<br>👯 I’m looking to collaborate on Java development, Spring Boot projects<br>🤝 I’m looking for help with Exploring advanced backend concepts<br>🌱 I’m currently learning Spring Boot, REST APIs, microservices basics<br>💬 Ask me about Java, OOP concepts, backend development, or getting started with Spring.<br>⚡ Fun fact I can debug code faster than I can decide what to eat 😄
-
-
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
   Hi, I'm Ravi Prakash</a>!
