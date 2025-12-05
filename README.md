@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/36773137-107f-404c-8e29-ad8ea6dbf1d0" alt="GitHub Banner showcasing a professional profile" width="100%">
-</div>
+# 💫 About Me:
+🔭 I’m currently working on Java-based backend applications<br>👯 I’m looking to collaborate on Java development, Spring Boot projects<br>🤝 I’m looking for help with Exploring advanced backend concepts<br>🌱 I’m currently learning Spring Boot, REST APIs, microservices basics<br>💬 Ask me about Java, OOP concepts, backend development, or getting started with Spring.<br>⚡ Fun fact I can debug code faster than I can decide what to eat 😄
+
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
@@ -17,16 +17,13 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Tirana, Albania</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Bengaluru, Karnataka</strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="http://www.floricela.com/" target="_blank"><strong>Portfolio</strong></a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:floricela.contact@gmail.com"><strong>raviprakash1880@gmail.com</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:floricela.contact@gmail.com"><strong>floricela.contact@gmail.com</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>real-time data apps for international sports</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently working <strong> on Java-based backend applications</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
@@ -46,42 +43,27 @@
   </picture>
 </div>
   
-  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
+ ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raviprakash1880/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raviprakash1880@gmail.com) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/floricela) 
-[![XING](https://img.shields.io/badge/XING-Let's%20Connect%20-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Flori_Cela)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+# 💻 Tech Stack:
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ravimishra2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ravimishra2003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravimishra2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ravimishra2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-  ![ContextAPI](https://img.shields.io/badge/ContextAPI-61DAFB?style=flat&logo=react&logoColor=black)
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
-  ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-  ![GSAP](https://img.shields.io/badge/GSAP-black?style=flat&logo=greensock&logoColor=00FF88)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-  ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-  ![Wix](https://img.shields.io/badge/Wix-000?style=flat&logo=wix&logoColor=white)
-  ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
-  ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
-  ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ravimishra2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=ravimishra2003&icon=0&color=0)](https://visitcount.itsvg.in)
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
 
 <br/>
