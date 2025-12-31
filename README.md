@@ -45,6 +45,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ravimishra2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravimishra2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=ravimishra2003&style=for-the-badge&color=blue)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ravimishra2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
